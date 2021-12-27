@@ -7,7 +7,7 @@ import {
 
 import HomePage from "./pages/HomePage";
 import AboutPage from "./pages/AboutPage";
-import ArticlesListPage from "./pages/ArtilclesListPage";
+import ArticlesListPage from "./pages/ArticlesListPage";
 import ArticlePage from "./pages/ArticlePage";
 import "./App.css";
 import NavBar from "./NavBar";
